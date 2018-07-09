@@ -1,0 +1,43 @@
+{
+  "name": "necktie",
+  "version": "1.0.0",
+  "description": "React Template Project",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nikpetrovic/necktie.git"
+  },
+  "keywords": [
+    "necktie",
+    "react",
+    "mobx",
+    "webpack",
+    "template"
+  ],
+  "author": "Nikola Petrovic",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/nikpetrovic/necktie/issues"
+  },
+  "homepage": "https://github.com/nikpetrovic/necktie#readme",
+  "dependencies": {
+    "chalk": "^2.4.1",
+    "clear": "^0.1.0",
+    "configstore": "^3.1.2",
+    "figlet": "^1.2.0",
+    "inquirer": "^6.0.0",
+    "lodash": "^4.17.10",
+    "minimist": "^1.2.0",
+    "mobx": "^5.0.3",
+    "mobx-react": "^5.2.3",
+    "react": "^16.4.1",
+    "react-dom": "^16.4.1"
+  },
+  "devDependencies": {
+    "webpack": "^4.15.1",
+    "webpack-cli": "^3.0.8"
+  }
+}
