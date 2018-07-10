@@ -1,6 +1,6 @@
 {
   "name": "@nikpetrovic/necktie",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "React Template Project",
   "main": "src/index.js",
   "scripts": {
