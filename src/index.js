@@ -1,3 +1,5 @@
+#!/usr/bin/env node
+
 require("./initializer");
 const FileHelper = require("./FileHelper");
 const inquirer = require("./inquirer");

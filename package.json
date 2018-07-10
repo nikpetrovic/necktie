@@ -7,8 +7,9 @@
     "start": "rimraf bin && babel src --out-dir bin && node bin/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
+  "preferGlobal": true,
   "bin": {
-    "necktie": "bin/index.js"
+    "necktie": "src/index.js"
   },
   "repository": {
     "type": "git",
